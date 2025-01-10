@@ -428,19 +428,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dlama\\.nuget\\packages\\": {}
+    "/home/santiago/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dlama\\OneDrive\\Documents\\CodeStack_\\Level2\\Week1\\EightToTen-Endpoints\\EightToTen-Endpoints\\EightToTen-Endpoints.csproj",
+      "projectUniqueName": "/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/EightToTen-Endpoints.csproj",
       "projectName": "EightToTen-Endpoints",
-      "projectPath": "C:\\Users\\dlama\\OneDrive\\Documents\\CodeStack_\\Level2\\Week1\\EightToTen-Endpoints\\EightToTen-Endpoints\\EightToTen-Endpoints.csproj",
-      "packagesPath": "C:\\Users\\dlama\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dlama\\OneDrive\\Documents\\CodeStack_\\Level2\\Week1\\EightToTen-Endpoints\\EightToTen-Endpoints\\obj\\",
+      "projectPath": "/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/EightToTen-Endpoints.csproj",
+      "packagesPath": "/home/santiago/.nuget/packages/",
+      "outputPath": "/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dlama\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/santiago/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -458,11 +458,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -485,6 +480,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.10, 8.0.10]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -493,7 +494,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

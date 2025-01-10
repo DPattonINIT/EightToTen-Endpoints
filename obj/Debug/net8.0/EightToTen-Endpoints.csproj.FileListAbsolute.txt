@@ -1,33 +1,69 @@
-C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\bin\Debug\net8.0\appsettings.json
-C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\bin\Debug\net8.0\EightToTen-Endpoints.exe
-C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\bin\Debug\net8.0\EightToTen-Endpoints.deps.json
-C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\bin\Debug\net8.0\EightToTen-Endpoints.runtimeconfig.json
-C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\bin\Debug\net8.0\EightToTen-Endpoints.dll
-C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\bin\Debug\net8.0\EightToTen-Endpoints.pdb
-C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\obj\Debug\net8.0\EightToTen-Endpoints.csproj.AssemblyReference.cache
-C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\obj\Debug\net8.0\EightToTen-Endpoints.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\obj\Debug\net8.0\EightToTen-Endpoints.AssemblyInfoInputs.cache
-C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\obj\Debug\net8.0\EightToTen-Endpoints.AssemblyInfo.cs
-C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\obj\Debug\net8.0\EightToTen-Endpoints.csproj.CoreCompileInputs.cache
-C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\obj\Debug\net8.0\EightToTen-Endpoints.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\obj\Debug\net8.0\EightToTen-Endpoints.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\obj\Debug\net8.0\EightToTen-Endpoints.sourcelink.json
-C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\obj\Debug\net8.0\staticwebassets\msbuild.EightToTen-Endpoints.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\obj\Debug\net8.0\staticwebassets\msbuild.build.EightToTen-Endpoints.props
-C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EightToTen-Endpoints.props
-C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EightToTen-Endpoints.props
-C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\obj\Debug\net8.0\scopedcss\bundle\EightToTen-Endpoints.styles.css
-C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\obj\Debug\net8.0\EightToT.D975E1EE.Up2Date
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/bin/Debug/net8.0/appsettings.json
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/bin/Debug/net8.0/EightToTen-Endpoints.exe
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/bin/Debug/net8.0/EightToTen-Endpoints.deps.json
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/bin/Debug/net8.0/EightToTen-Endpoints.runtimeconfig.json
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/bin/Debug/net8.0/EightToTen-Endpoints.dll
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/bin/Debug/net8.0/EightToTen-Endpoints.pdb
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/obj/Debug/net8.0/EightToTen-Endpoints.csproj.AssemblyReference.cache
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/obj/Debug/net8.0/EightToTen-Endpoints.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/obj/Debug/net8.0/EightToTen-Endpoints.AssemblyInfoInputs.cache
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/obj/Debug/net8.0/EightToTen-Endpoints.AssemblyInfo.cs
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/obj/Debug/net8.0/EightToTen-Endpoints.csproj.CoreCompileInputs.cache
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/obj/Debug/net8.0/EightToTen-Endpoints.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/obj/Debug/net8.0/EightToTen-Endpoints.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/obj/Debug/net8.0/EightToTen-Endpoints.sourcelink.json
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/obj/Debug/net8.0/staticwebassets/msbuild.EightToTen-Endpoints.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/obj/Debug/net8.0/staticwebassets/msbuild.build.EightToTen-Endpoints.props
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.EightToTen-Endpoints.props
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.EightToTen-Endpoints.props
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/obj/Debug/net8.0/scopedcss/bundle/EightToTen-Endpoints.styles.css
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/obj/Debug/net8.0/EightToT.D975E1EE.Up2Date
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/obj/Debug/net8.0/EightToTen-Endpoints.dll
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/obj/Debug/net8.0/refint/EightToTen-Endpoints.dll
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/obj/Debug/net8.0/EightToTen-Endpoints.pdb
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/obj/Debug/net8.0/EightToTen-Endpoints.genruntimeconfig.cache
+C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/EightToTen-Endpoints/obj/Debug/net8.0/ref/EightToTen-Endpoints.dll
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/bin/Debug/net8.0/appsettings.Development.json
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/bin/Debug/net8.0/appsettings.json
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/bin/Debug/net8.0/EightToTen-Endpoints
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/bin/Debug/net8.0/EightToTen-Endpoints.deps.json
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/bin/Debug/net8.0/EightToTen-Endpoints.runtimeconfig.json
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/bin/Debug/net8.0/EightToTen-Endpoints.dll
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/bin/Debug/net8.0/EightToTen-Endpoints.pdb
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/obj/Debug/net8.0/EightToTen-Endpoints.csproj.AssemblyReference.cache
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/obj/Debug/net8.0/EightToTen-Endpoints.GeneratedMSBuildEditorConfig.editorconfig
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/obj/Debug/net8.0/EightToTen-Endpoints.AssemblyInfoInputs.cache
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/obj/Debug/net8.0/EightToTen-Endpoints.AssemblyInfo.cs
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/obj/Debug/net8.0/EightToTen-Endpoints.csproj.CoreCompileInputs.cache
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/obj/Debug/net8.0/EightToTen-Endpoints.MvcApplicationPartsAssemblyInfo.cs
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/obj/Debug/net8.0/EightToTen-Endpoints.MvcApplicationPartsAssemblyInfo.cache
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/obj/Debug/net8.0/EightToTen-Endpoints.sourcelink.json
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/obj/Debug/net8.0/staticwebassets.build.json
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/obj/Debug/net8.0/staticwebassets.development.json
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/obj/Debug/net8.0/staticwebassets/msbuild.EightToTen-Endpoints.Microsoft.AspNetCore.StaticWebAssets.props
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/obj/Debug/net8.0/staticwebassets/msbuild.build.EightToTen-Endpoints.props
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.EightToTen-Endpoints.props
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.EightToTen-Endpoints.props
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/obj/Debug/net8.0/staticwebassets.pack.json
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/obj/Debug/net8.0/scopedcss/bundle/EightToTen-Endpoints.styles.css
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/obj/Debug/net8.0/EightToTen-Endpoints.csproj.CopyComplete
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/obj/Debug/net8.0/EightToTen-Endpoints.dll
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/obj/Debug/net8.0/refint/EightToTen-Endpoints.dll
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/obj/Debug/net8.0/EightToTen-Endpoints.pdb
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/obj/Debug/net8.0/EightToTen-Endpoints.genruntimeconfig.cache
+/home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/obj/Debug/net8.0/ref/EightToTen-Endpoints.dll
 C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\obj\Debug\net8.0\EightToTen-Endpoints.dll
 C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\obj\Debug\net8.0\refint\EightToTen-Endpoints.dll
 C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\obj\Debug\net8.0\EightToTen-Endpoints.pdb
-C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\obj\Debug\net8.0\EightToTen-Endpoints.genruntimeconfig.cache
-C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\obj\Debug\net8.0\ref\EightToTen-Endpoints.dll
