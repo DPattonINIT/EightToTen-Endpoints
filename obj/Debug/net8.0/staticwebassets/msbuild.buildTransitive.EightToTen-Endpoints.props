@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\EightToTen-Endpoints.props" />
+</Project>

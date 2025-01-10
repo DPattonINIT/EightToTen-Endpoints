@@ -1,0 +1,6 @@
+@EightToTen_Endpoints_HostAddress = http://localhost:5138
+
+GET {{EightToTen_Endpoints_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
