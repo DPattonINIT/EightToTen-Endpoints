@@ -64,6 +64,9 @@ C:/Users/dlama/OneDrive/Documents/CodeStack_/Level2/Week1/EightToTen-Endpoints/E
 /home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/obj/Debug/net8.0/EightToTen-Endpoints.pdb
 /home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/obj/Debug/net8.0/EightToTen-Endpoints.genruntimeconfig.cache
 /home/santiago/Documents/CodeStack/Level 2/reviewingAssignments/EightToTen-Endpoints/obj/Debug/net8.0/ref/EightToTen-Endpoints.dll
+<<<<<<< HEAD
 C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\obj\Debug\net8.0\EightToTen-Endpoints.dll
 C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\obj\Debug\net8.0\refint\EightToTen-Endpoints.dll
 C:\Users\dlama\OneDrive\Documents\CodeStack_\Level2\Week1\EightToTen-Endpoints\EightToTen-Endpoints\obj\Debug\net8.0\EightToTen-Endpoints.pdb
+=======
+>>>>>>> 42166f009a28b19ede2187ab7f0a30852454e615
