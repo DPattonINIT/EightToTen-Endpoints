@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EightToTen-Endpoints")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4b37f8439b8bcb01a37b75fc4728c39b7067732")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+289c336030bdaa2da0d230a902744d28534ef2a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("EightToTen-Endpoints")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EightToTen-Endpoints")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
